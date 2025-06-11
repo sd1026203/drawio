@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="3756" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3756" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -302,6 +302,15 @@
         </mxCell>
         <mxCell id="23mOr3l0Y7t_e0WFMV8I-19" value="&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;告警中心&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#EFEBE9;" vertex="1" parent="1">
           <mxGeometry x="367.38" y="311.5" width="180" height="148.5" as="geometry" />
+        </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-20" value="告警配置&lt;div&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;阈值/统计窗口/沉默窗口&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalLabelPosition=middle;align=left;labelBackgroundColor=none;verticalAlign=middle;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;labelPosition=right;" vertex="1" parent="1">
+          <mxGeometry x="390" y="382" width="27" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-21" value="告警类型&lt;br&gt;&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;任务失败/工作流失败&lt;/font&gt;" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=middle;verticalAlign=middle;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job;labelPosition=right;align=left;" vertex="1" parent="1">
+          <mxGeometry x="386" y="421" width="35" height="33.6" as="geometry" />
+        </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-22" value="告警渠道&lt;font style=&quot;color: rgb(153, 153, 153);&quot;&gt;&lt;br&gt;邮件/微信/webhook&lt;/font&gt;" style="verticalLabelPosition=middle;html=1;verticalAlign=middle;align=left;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.azure_alert;labelPosition=right;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="390" y="345" width="30" height="25.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
