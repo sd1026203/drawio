@@ -300,6 +300,9 @@
         <mxCell id="23mOr3l0Y7t_e0WFMV8I-18" value="离线(9)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=#808080;strokeColor=light-dark(#808080, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
           <mxGeometry x="470" y="255.5" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-19" value="&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;告警中心&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#EFEBE9;" vertex="1" parent="1">
+          <mxGeometry x="367.38" y="311.5" width="180" height="148.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
