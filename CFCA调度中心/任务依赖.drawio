@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GuzJ8BqgIlNCJu6hI-l5-1007" value="&lt;b&gt;CFCA JOB&amp;nbsp;&lt;/b&gt;工作流特性" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="110" width="658" height="520" as="geometry" />
+          <mxGeometry x="90" y="110" width="840" height="680" as="geometry" />
         </mxCell>
         <mxCell id="GuzJ8BqgIlNCJu6hI-l5-1012" value="&lt;font style=&quot;color: rgb(51, 0, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 智能依赖处理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#4284F3;gradientColor=none;shadow=0;dashed=1;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=none;dashPattern=1 2;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="115.25" y="170" width="234.75" height="610" as="geometry" />
@@ -138,6 +138,9 @@
         </mxCell>
         <mxCell id="CSGueSKlKxgK1yheR6nM-67" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_bridge;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="693" y="620" width="25" height="19.53" as="geometry" />
+        </mxCell>
+        <mxCell id="CSGueSKlKxgK1yheR6nM-68" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.startup_task;fillColor=#0078D7;" vertex="1" parent="1">
+          <mxGeometry x="95" y="110" width="35" height="36.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
