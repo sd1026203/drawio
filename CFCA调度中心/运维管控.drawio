@@ -188,6 +188,9 @@
         <mxCell id="23mOr3l0Y7t_e0WFMV8I-80" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. DAG图形化展示&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. 节点状态实时更新&lt;/div&gt;&lt;div&gt;3. 工作流执行管理&lt;/div&gt;&lt;div&gt;4. 工作流节点配置&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="23mOr3l0Y7t_e0WFMV8I-77">
           <mxGeometry x="34.379999999999995" y="36.5" width="120" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-90" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.workdocs;fillColor=#D16A28;gradientColor=#F58435;gradientDirection=north;aspect=fixed;" vertex="1" parent="23mOr3l0Y7t_e0WFMV8I-77">
+          <mxGeometry x="10" y="2.1399999999999864" width="30" height="34.36" as="geometry" />
+        </mxCell>
         <mxCell id="23mOr3l0Y7t_e0WFMV8I-82" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="920" y="400" width="180" height="110" as="geometry" />
         </mxCell>
@@ -198,6 +201,15 @@
           <mxGeometry x="12" y="7.289999999999992" width="30" height="27.71" as="geometry" />
         </mxCell>
         <mxCell id="23mOr3l0Y7t_e0WFMV8I-85" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. 告警方式配置&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. 告警阈值配置&lt;/div&gt;&lt;div&gt;3. 告警人配置&lt;/div&gt;&lt;div&gt;4. 告警静默期设置&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="23mOr3l0Y7t_e0WFMV8I-82">
+          <mxGeometry x="34.379999999999995" y="36.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-87" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="920" y="600" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-88" value="&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;应用管理中心&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#EFEBE9;" vertex="1" parent="23mOr3l0Y7t_e0WFMV8I-87">
+          <mxGeometry width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-89" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1. 应用注册与管理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;2. 失败任务统计&lt;/div&gt;&lt;div&gt;3. worker节点信息&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="23mOr3l0Y7t_e0WFMV8I-87">
           <mxGeometry x="34.379999999999995" y="36.5" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
