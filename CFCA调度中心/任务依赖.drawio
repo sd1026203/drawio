@@ -97,12 +97,6 @@
         <mxCell id="CSGueSKlKxgK1yheR6nM-44" value="&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 19px;&quot;&gt;▸&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;断点续跑&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;允许从任意失败的节点处恢复&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;执行工作流&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;background-color: transparent;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent; font-size: 19px;&quot;&gt;▸&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;b&gt;人工干预接口&lt;/b&gt;&lt;b style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;可手动将失败节点标记为成&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;功，强制流程继续&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="697.0699999999999" y="500" width="177.68" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CSGueSKlKxgK1yheR6nM-45" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.laptop;pointerEvents=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="695.75" y="470" width="25" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="CSGueSKlKxgK1yheR6nM-46" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="698.75" y="619" width="20" height="24.25" as="geometry" />
-        </mxCell>
         <mxCell id="CSGueSKlKxgK1yheR6nM-47" value="&lt;font style=&quot;color: rgb(51, 0, 0); font-size: 13px;&quot;&gt;&lt;b&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;font color=&quot;#330000&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;节点级容错策略&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#EFEBE9;" vertex="1" parent="1">
           <mxGeometry x="680" y="205" width="214.75" height="145" as="geometry" />
         </mxCell>
@@ -138,6 +132,12 @@
         </mxCell>
         <mxCell id="CSGueSKlKxgK1yheR6nM-64" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.reload;" vertex="1" parent="1">
           <mxGeometry x="695.25" y="359.5" width="24" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="CSGueSKlKxgK1yheR6nM-65" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Restore_Points.svg;" vertex="1" parent="1">
+          <mxGeometry x="693" y="464" width="25" height="24.56" as="geometry" />
+        </mxCell>
+        <mxCell id="CSGueSKlKxgK1yheR6nM-67" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.wireless_bridge;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="693" y="620" width="25" height="19.53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
