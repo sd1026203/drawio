@@ -133,11 +133,11 @@
         <mxCell id="CSGueSKlKxgK1yheR6nM-57" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Distributer_Control_System.svg;" vertex="1" parent="1">
           <mxGeometry x="405" y="360" width="25" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="CSGueSKlKxgK1yheR6nM-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Savings_Plan.svg;" vertex="1" parent="1">
-          <mxGeometry x="405" y="465" width="25" height="25" as="geometry" />
+        <mxCell id="CSGueSKlKxgK1yheR6nM-59" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="413.86" y="616.13" width="25" height="27.78" as="geometry" />
         </mxCell>
-        <mxCell id="CSGueSKlKxgK1yheR6nM-59" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
-          <mxGeometry x="413.86" y="616.13" width="25" height="30" as="geometry" />
+        <mxCell id="CSGueSKlKxgK1yheR6nM-60" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failover_plan;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="407" y="463.58" width="20" height="28.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
