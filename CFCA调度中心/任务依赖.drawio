@@ -1,16 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.4">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2746" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GuzJ8BqgIlNCJu6hI-l5-1007" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="120" width="658" height="520" as="geometry" />
-        </mxCell>
-        <mxCell id="GuzJ8BqgIlNCJu6hI-l5-1008" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" parent="GuzJ8BqgIlNCJu6hI-l5-1007" vertex="1">
-          <mxGeometry width="23" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="10" as="offset" />
-          </mxGeometry>
+        <mxCell id="GuzJ8BqgIlNCJu6hI-l5-1007" value="&lt;b&gt;CFCA JOB&amp;nbsp;&lt;/b&gt;工作流特性" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235.25" y="110" width="658" height="520" as="geometry" />
         </mxCell>
         <mxCell id="GuzJ8BqgIlNCJu6hI-l5-1141" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" parent="GuzJ8BqgIlNCJu6hI-l5-1007" vertex="1">
           <mxGeometry x="207.75" y="290" width="192.25" height="60" as="geometry" />
@@ -78,6 +73,9 @@
               <mxPoint x="550" y="430" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CSGueSKlKxgK1yheR6nM-1" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job" vertex="1" parent="GuzJ8BqgIlNCJu6hI-l5-1007">
+          <mxGeometry x="8" y="4" width="30" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="GuzJ8BqgIlNCJu6hI-l5-1009" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;dashed=0;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=4;endArrow=blockThin;endFill=1;endSize=4;strokeColor=#4284F3;strokeWidth=2;fontSize=12;" parent="1" source="GuzJ8BqgIlNCJu6hI-l5-1011" target="GuzJ8BqgIlNCJu6hI-l5-1153" edge="1">
           <mxGeometry relative="1" as="geometry">
