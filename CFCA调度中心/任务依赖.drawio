@@ -128,16 +128,16 @@
           <mxGeometry x="396" y="173" width="30" height="25" as="geometry" />
         </mxCell>
         <mxCell id="CSGueSKlKxgK1yheR6nM-56" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.dcdn_dynamic_route_for_cdn;" vertex="1" parent="1">
-          <mxGeometry x="403.75" y="208.74" width="25" height="29.52" as="geometry" />
+          <mxGeometry x="414.75" y="208.74" width="25" height="29.52" as="geometry" />
         </mxCell>
         <mxCell id="CSGueSKlKxgK1yheR6nM-57" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Distributer_Control_System.svg;" vertex="1" parent="1">
-          <mxGeometry x="405" y="360" width="25" height="25" as="geometry" />
+          <mxGeometry x="413" y="360" width="25" height="25" as="geometry" />
         </mxCell>
         <mxCell id="CSGueSKlKxgK1yheR6nM-59" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="413.86" y="616.13" width="25" height="27.78" as="geometry" />
+          <mxGeometry x="417.86" y="616.13" width="25" height="27.78" as="geometry" />
         </mxCell>
         <mxCell id="CSGueSKlKxgK1yheR6nM-60" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.failover_plan;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="407" y="463.58" width="20" height="28.34" as="geometry" />
+          <mxGeometry x="416" y="463.58" width="20" height="28.34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
