@@ -286,18 +286,18 @@
           <mxGeometry x="350" y="170" width="214.75" height="300" as="geometry" />
         </mxCell>
         <mxCell id="23mOr3l0Y7t_e0WFMV8I-11" value="&lt;font style=&quot;color: rgb(51, 0, 0);&quot;&gt;健康状态中心&lt;/font&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#EFEBE9;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200.5" width="180" height="130" as="geometry" />
+          <mxGeometry x="370" y="200.5" width="180" height="89.5" as="geometry" />
         </mxCell>
         <mxCell id="23mOr3l0Y7t_e0WFMV8I-14" value="健康(1)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=#14FF0C;strokeColor=light-dark(#14ff0c, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
           <mxGeometry x="380" y="230" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="23mOr3l0Y7t_e0WFMV8I-16" value="糟糕(3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=#14FF0C;strokeColor=light-dark(#14ff0c, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-16" value="糟糕(3&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=light-dark(#ff0a0a, #008600);strokeColor=light-dark(#ff0a0a, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
           <mxGeometry x="380" y="255.5" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="23mOr3l0Y7t_e0WFMV8I-17" value="一般(2)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=#14FF0C;strokeColor=light-dark(#14ff0c, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-17" value="一般(2)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=#FFFA6D;strokeColor=light-dark(#fffa6d, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
           <mxGeometry x="470" y="230" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="23mOr3l0Y7t_e0WFMV8I-18" value="离线(9)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=#14FF0C;strokeColor=light-dark(#14ff0c, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
+        <mxCell id="23mOr3l0Y7t_e0WFMV8I-18" value="离线(9)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;fillColor=#808080;strokeColor=light-dark(#808080, #ededed);labelPosition=right;verticalLabelPosition=middle;align=right;verticalAlign=middle;spacingLeft=10;spacingRight=-30;" vertex="1" parent="1">
           <mxGeometry x="470" y="255.5" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
