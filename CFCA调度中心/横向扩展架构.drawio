@@ -99,10 +99,10 @@
             <mxPoint x="15" y="16.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fLL1XCTGVLABxnsO1DKG-52" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="fLL1XCTGVLABxnsO1DKG-52" value="" style="group;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="830" y="540" width="210" height="141.5" as="geometry" />
         </mxCell>
-        <mxCell id="fLL1XCTGVLABxnsO1DKG-53" value="&lt;b&gt;业务集群4(新加入)&lt;/b&gt;" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" vertex="1" parent="fLL1XCTGVLABxnsO1DKG-52">
+        <mxCell id="fLL1XCTGVLABxnsO1DKG-53" value="&lt;b&gt;业务集群4(新加入)&lt;/b&gt;" style="fillColor=#d5e8d4;strokeColor=#82b366;shadow=0;fontSize=14;align=left;spacing=10;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;container=0;" vertex="1" parent="fLL1XCTGVLABxnsO1DKG-52">
           <mxGeometry width="210" height="141.5" as="geometry" />
         </mxCell>
         <mxCell id="fLL1XCTGVLABxnsO1DKG-54" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="fLL1XCTGVLABxnsO1DKG-52">
